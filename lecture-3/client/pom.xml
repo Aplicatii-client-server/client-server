@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.example</groupId>
-        <artifactId>client-server2</artifactId>
+        <artifactId>lecture-3</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>server</artifactId>
+    <artifactId>client</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
