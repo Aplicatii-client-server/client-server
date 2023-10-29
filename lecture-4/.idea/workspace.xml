@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb5d523-27f7-4f92-bd18-8ef30c63503c" name="Changes" comment="" />
+    <list default="true" id="adb5d523-27f7-4f92-bd18-8ef30c63503c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../lecture-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture-3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Compound.client &amp; server">
+  <component name="RunManager" selected="Application.client">
     <configuration name="client" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -81,7 +83,8 @@
       <updated>1697465279190</updated>
       <workItem from="1697465280226" duration="3739000" />
       <workItem from="1698001426552" duration="649000" />
-      <workItem from="1698578841016" duration="291000" />
+      <workItem from="1698578841016" duration="41000" />
+      <workItem from="1698579134100" duration="4749000" />
     </task>
     <servers />
   </component>
